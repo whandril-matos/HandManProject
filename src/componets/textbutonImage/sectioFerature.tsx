@@ -1,7 +1,7 @@
 "user client"
 import React from "react";
 import "./FeatureSection.scss";
-import { FaPhoenixSquadron, FaPhone, FaWhatsapp } from "react-icons/fa";
+import { FaPhone, FaWhatsapp } from "react-icons/fa";
 import { GiConfirmed } from "react-icons/gi";
 
 interface FeatureSectionProps {

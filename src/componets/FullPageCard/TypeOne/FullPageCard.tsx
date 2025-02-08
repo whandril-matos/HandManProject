@@ -1,5 +1,4 @@
 import React from "react";
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from "react-icons/fa";
 import "./FullPageCard.scss";
 
 const FullPageCard = () => {

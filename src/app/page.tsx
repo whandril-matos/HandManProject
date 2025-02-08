@@ -12,11 +12,8 @@ import FeatureSection from "../componets/textbutonImage/sectioFerature"
 import Footer from "../componets/footer/type1/Footer"
 
 
-const fetchData = async () => {
-  return new Promise<void>((resolve) => setTimeout(resolve, 3000)); // Simula um delay de 3 segundos
-};
 
- let informationsApi = {
+const informationsApi = {
     "componets":{
       "cardImageText":[
         {

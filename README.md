@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Speed Repair
+Speed Repair is a modern and optimized landing page designed to showcase the company's home maintenance and repair services. Built with React and SCSS, the site provides a smooth, responsive, and fast-loading experience, ensuring intuitive navigation for users.
 
-## Getting Started
 
-First, run the development server:
+📌 Site Structure:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔹 Introduction Section – A full-page card (FullPageCard) highlighting the services offered.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔹 Service List – A visually appealing display of services such as carpentry, plumbing, electrical work, and gardening.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🔹 How We Work – A detailed list explaining the company's key differentiators.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🔹 Frequently Asked Questions (FAQ) – An accordion-style FAQ section for easy readability.
 
-## Learn More
+🔹 Call to Action – A dedicated section encouraging customers to contact via WhatsApp or phone.
 
-To learn more about Next.js, take a look at the following resources:
+🔹 Footer – Includes additional information and useful links.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🚀 Technologies Used:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+✅ React/Next – Efficient componentization for modular and reusable code.
 
-## Deploy on Vercel
+✅ SCSS – Advanced styling for a professional and responsive design.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+✅ useState and useEffect – State management and page loading control.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+✅ API Simulation – Structured data stored in a local object (informationsApi) for easy manipulation.
+
+
+💡 Conclusion: Speed Repair is an efficient and objective landing page, designed to attract customers quickly and effectively, showcasing repair services with clarity and usability. 🚀
+
